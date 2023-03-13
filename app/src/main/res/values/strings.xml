@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">eCommerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="cart_label">Carrito</string>
+    <string name="home_label">Inicio</string>
+    <string name="profile_label">Perfil</string>
+    <string name="search_label">Buscar</string>
 </resources>
