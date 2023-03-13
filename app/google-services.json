@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073027513745",
+    "project_id": "ecommerce-809a1",
+    "storage_bucket": "ecommerce-809a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073027513745:android:cc75dfa4267431631a2e30",
+        "android_client_info": {
+          "package_name": "com.patriciamespert.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073027513745-30i46tmboe55gcn4ng4tei8lu0mdb3f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patriciamespert.ecommerce",
+            "certificate_hash": "09701a932ee0c6ddd5d2c72d162b6753e1edeb89"
+          }
+        },
+        {
+          "client_id": "1073027513745-dv1nrurpj1gvtr40gbha0anfdq2idho0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwcqgJjTvM8_lFBf2hSvenR68HBPUQEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073027513745-dv1nrurpj1gvtr40gbha0anfdq2idho0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
